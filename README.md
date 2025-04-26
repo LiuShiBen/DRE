@@ -24,7 +24,7 @@ LReID code consist of LifelongReID, PatchKD, PTKP, and KRKC.
 
 ## Overview
 
-- Diverse Representations Embedding for Lifelong Person Re-Identification （DRE）
+- Diverse Representations Embedding for Lifelong Person Re-Identification (DRE)
 
 ```
 The proposed DRE adaptively learns diverse representation to achieve a dynamic balance between preserving old knowledge and adapting to new information.
@@ -58,8 +58,7 @@ PTKP casts LReID as a source-free domain adaptation problem, where old tasks are
 
 ## Acknowledgement
 
-- Lifelong Person Re-Identification via Adaptive Knowledge Accumulation  [AKA](https:
-  //github.com/TPCD/LifelongReID).
+- Lifelong Person Re-Identification via Adaptive Knowledge Accumulation  [AKA](https://github.com/TPCD/LifelongReID).
 -  Patch-based Knowledge Distillation for Lifelong Person Re-Identification  [PatchKD](https://github.com/feifeiobama/PatchKD).
 -  Lifelong Person Re-identification by Pseudo Task Knowledge Preservation  [PTKP](https://github.com/g3956/PTKP).
 -  Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation  [KRKC](https://github.com/cly234/LReID-KRKC).
