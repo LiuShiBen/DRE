@@ -1,0 +1,14 @@
+Cython
+einops
+easydict
+h5py
+imageio
+matplotlib
+numpy
+opencv-python
+prettytable
+sklearn
+torch
+torchvision
+tqdm
+visdom
