@@ -1,5 +1,12 @@
 ## Diverse Representations Embedding for Lifelong Person Re-Identification
 
+<div align="center"> 
+  
+[![arXiv](https://img.shields.io/badge/arXiv-2403.16003-b31b1b?logo=arxiv)](https://arxiv.org/abs/2403.16003)
+
+</div>
+
+# Introduction
 ```
 Our work proposes an “Diverse Representations Embedding for Lifelong Person Re-Identification” (DRE). The proposed DRE adaptively learns diverse representation to achieve a dynamic balance between preserving old knowledge and adapting to new information.
 ```
