@@ -1,4 +1,4 @@
-## Diverse Representations Embedding for Lifelong Person Re-Identification
+## Diverse Representations Embedding for Lifelong Person Re-Identification (DRE)
 
 <div align="center"> 
   
