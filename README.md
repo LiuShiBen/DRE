@@ -2,7 +2,7 @@
 
 <div align="center"> 
 
-📺[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/11112611)  
+📺Our paper has been accepted by [IEEE Transactions on Neural Networks and Learning Systems 2025](https://ieeexplore.ieee.org/document/11045423)  
 </div>
 
 # Introduction
