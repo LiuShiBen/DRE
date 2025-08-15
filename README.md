@@ -1,9 +1,8 @@
 ## Diverse Representations Embedding for Lifelong Person Re-Identification (DRE)
 
 <div align="center"> 
-  
-[![arXiv](https://img.shields.io/badge/arXiv-2403.16003-b31b1b?logo=arxiv)](https://arxiv.org/abs/2403.16003)
 
+📺[IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/document/11112611)  
 </div>
 
 # Introduction
