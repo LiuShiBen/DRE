@@ -52,6 +52,18 @@ PTKP casts LReID as a source-free domain adaptation problem, where old tasks are
 ```
  KRKC also improves model performance on both old and new tasks during the lifelong learning process.
 ```
+## Citation
+```
+@ARTICLE{11045423,
+  author={Liu, Shiben and Fan, Huijie and Wang, Qiang and Chen, Xiai and Han, Zhi and Tang, Yandong},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Diverse Representations Embedding for Lifelong Person Re-Identification}, 
+  year={2025},
+  volume={36},
+  number={10},
+  pages={18145-18157},
+  doi={10.1109/TNNLS.2025.3571768}}
+```
 
 ### Acknowledgement
 
