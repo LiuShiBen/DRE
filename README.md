@@ -53,11 +53,14 @@ PTKP casts LReID as a source-free domain adaptation problem, where old tasks are
  KRKC also improves model performance on both old and new tasks during the lifelong learning process.
 ```
 
-
-
-## Acknowledgement
+### Acknowledgement
 
 - Lifelong Person Re-Identification via Adaptive Knowledge Accumulation  [AKA](https://github.com/TPCD/LifelongReID).
 -  Patch-based Knowledge Distillation for Lifelong Person Re-Identification  [PatchKD](https://github.com/feifeiobama/PatchKD).
 -  Lifelong Person Re-identification by Pseudo Task Knowledge Preservation  [PTKP](https://github.com/g3956/PTKP).
 -  Lifelong Person Re-Identification via Knowledge Refreshing and Consolidation  [KRKC](https://github.com/cly234/LReID-KRKC).
+
+### Contact
+
+If you have any questions, please contact Shiben Liu at liushiben310@163.com.
+
